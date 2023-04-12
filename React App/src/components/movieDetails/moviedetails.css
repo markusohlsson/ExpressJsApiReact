@@ -1,0 +1,24 @@
+.selectedmovieContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.selectedmovieTitle {
+  width: 100%;
+}
+
+.selectedmovieInformation {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.plot {
+  width: 80%;
+}

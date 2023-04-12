@@ -1,0 +1,29 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  color: white;
+  padding-top: 150px;
+}
+
+.addmovietitle {
+  text-align: center;
+  margin: 0;
+  color: white;
+  padding-top: 50px;
+  font-size: 24px;
+}
+
+.confirmation {
+  text-align: center;
+  color: rgb(2, 222, 2);
+}
+
+.addMovieContainer {
+  background-color: darkslategrey;
+  height: 100vh;
+}
+body {
+}
